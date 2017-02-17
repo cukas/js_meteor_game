@@ -1,0 +1,1 @@
+"use strict";function init(){game=new phaser.Game(640,960,Phaser.AUTO,"")}var game,phaser=Phaser;document.eventsListener("DOMContentLoaded()",init);
